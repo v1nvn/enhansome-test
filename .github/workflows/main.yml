@@ -12,8 +12,7 @@ jobs:
   enhance_and_commit:
     runs-on: ubuntu-latest
     # Set permissions for GITHUB_TOKEN.
-    # `contents: write` is needed for the composite action (specifically stefanzweifel/git-auto-commit-action)
-    # to push changes to this repository.
+    # `contents: write` is needed to push changes to this repository.
     permissions:
       contents: write
 
@@ -32,27 +31,21 @@ jobs:
           submodules: 'true' # Initialize submodules, though our action will update 'origin'
 
       - name: Run Awesome List Enhancer and Commit
-        uses: v1nvn/enhansome@main # IMPORTANT: Replace 'your-github-username'
-        id: enhancer
+        uses: v1nvn/enhansome@v1
+        id: enhansome
         with:
-          # This token will be used by the toolkit for GitHub API calls (star fetching)
-          # AND by the stefanzweifel/git-auto-commit-action within the toolkit.
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          submodule_path: 'origin'
-          content_destination_path: '.'
-          files_to_enhance: 'README.md'
-          # --- Inputs for the commit step now part of the toolkit ---
-          do_commit: 'true' # Explicitly enable commit, though it's the default in the toolkit
-          commit_message: "docs(enhance): ✨ Auto-update awesome list with latest content and star counts"
-          commit_user_name: "Awesome List Enhancer Bot" # Custom bot name
-          commit_user_email: "actions-bot@users.noreply.github.com" # Standard GitHub Actions bot email
+          # submodule_path: 'origin'
+          # content_destination_path: '.'
+          # files_to_enhance: 'README.md'
+          # items_to_sync: 'README.md'
+          # extra_rsync_args: ""
+          # do_commit: 'true' # Explicitly enable commit, though it's the default in the toolkit
+          # commit_message: "docs(enhance): ✨ Auto-update awesome list with latest content and star counts"
+          # commit_user_name: "Enhansome" # Custom bot name
+          # commit_user_email: "actions-bot@users.noreply.github.com" # Standard GitHub Actions bot email
           # commit_branch: 'main' # Optional: specify branch if not current
-          # rsync_exclude_from_file: '' # Optional: if you don't want to use 'origin/.rsync-excludes'
-          # extra_rsync_args: "--exclude '.gitmodules' --exclude 'LICENSE'" # Optional: more rsync tuning
 
-      # The "Commit and Push Changes" step has been moved into the composite action.
-      # If you need to act based on whether a commit happened, you might check an output from the 'enhancer' step,
-      # e.g., if (steps.enhancer.outputs.changes_committed == 'true')
       - name: Enhancement Complete
         if: success()
         run: echo "Awesome list enhancement process complete. Changes (if any) have been committed by the toolkit."
