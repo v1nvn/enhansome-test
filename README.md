@@ -33,8 +33,8 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Plugins
 
-- [z](https://github.com/jethrokuan/z) ⭐ 1,402 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,647-like directory jumping
-- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,284 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,575. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
+- [z](https://github.com/jethrokuan/z) ⭐ 1,402 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,648-like directory jumping
+- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,284 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,577. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
 - [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,346 - Node.js version manager lovingly made for Fish
 - [Done](https://github.com/franciscolourenco/done) ⭐ 839 - Automatically receive notifications after a long process finishes
 - [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 441 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,305)
