@@ -2,7 +2,7 @@
 
 > Fish is the sassy & user-friendly command line shell you never knew you needed for Linux, macOS, and the whole gang. Out with the old-fashioned shells that skimp on features for the sake of every last byte of RAM—finally, a command line shell for the 90s!
 
-Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 4,501, join the crew!
+Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 4,502, join the crew!
 
 ## Contents
 
@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
-- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,007
+- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,019
 - [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
 ## Community Resources
@@ -27,19 +27,19 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Prompts
 
-- [Tide](https://github.com/IlanCosman/tide) ⭐ 3,425 - A modern prompt manager for Fish
-- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,317 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,599 ZSH prompt, now in Fish flavor
-- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 788 - Lag-free prompt with async Git status (ooh la la)
+- [Tide](https://github.com/IlanCosman/tide) ⭐ 3,426 - A modern prompt manager for Fish
+- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,319 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,601 ZSH prompt, now in Fish flavor
+- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 787 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-- [z](https://github.com/jethrokuan/z) ⭐ 1,403 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,651-like directory jumping
-- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,294 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,655. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
-- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,348 - Node.js version manager lovingly made for Fish
+- [z](https://github.com/jethrokuan/z) ⭐ 1,403 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,652-like directory jumping
+- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,295 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,691. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
+- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,349 - Node.js version manager lovingly made for Fish
 - [Done](https://github.com/franciscolourenco/done) ⭐ 841 - Automatically receive notifications after a long process finishes
 - [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 442 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,308)
 - [Spark](https://github.com/jorgebucaran/spark.fish) ⭐ 354 - Sparklines for Fish
-- [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,372 - Manage functions, completions, bindings, and snippets from the CLI
+- [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,373 - Manage functions, completions, bindings, and snippets from the CLI
 - [Fundle](https://github.com/danhper/fundle) ⭐ 383 - `config.fish`-based plugin manager
 - [GitNow](https://github.com/joseluisq/gitnow) ⭐ 424 - A collection of utility functions to speed up your git workflow
 - [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 332 - Clean command history from typos automatically
