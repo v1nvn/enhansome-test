@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
-- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,043
+- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,062
 - [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
 ## Community Resources
@@ -27,31 +27,31 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Prompts
 
-- [Tide](https://github.com/IlanCosman/tide) ⭐ 3,427 - A modern prompt manager for Fish
-- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,319 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,613 ZSH prompt, now in Fish flavor
-- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 787 - Lag-free prompt with async Git status (ooh la la)
+- [Tide](https://github.com/IlanCosman/tide) ⭐ 3,429 - A modern prompt manager for Fish
+- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,320 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,616 ZSH prompt, now in Fish flavor
+- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 788 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-- [z](https://github.com/jethrokuan/z) ⭐ 1,408 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,659-like directory jumping
-- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,302 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,790. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
-- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,357 - Node.js version manager lovingly made for Fish
-- [Done](https://github.com/franciscolourenco/done) ⭐ 842 - Automatically receive notifications after a long process finishes
+- [z](https://github.com/jethrokuan/z) ⭐ 1,409 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,661-like directory jumping
+- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,302 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,814. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
+- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,358 - Node.js version manager lovingly made for Fish
+- [Done](https://github.com/franciscolourenco/done) ⭐ 843 - Automatically receive notifications after a long process finishes
 - [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 442 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,309)
 - [Spark](https://github.com/jorgebucaran/spark.fish) ⭐ 356 - Sparklines for Fish
 - [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,380 - Manage functions, completions, bindings, and snippets from the CLI
 - [Fundle](https://github.com/danhper/fundle) ⭐ 383 - `config.fish`-based plugin manager
-- [GitNow](https://github.com/joseluisq/gitnow) ⭐ 424 - A collection of utility functions to speed up your git workflow
+- [GitNow](https://github.com/joseluisq/gitnow) ⭐ 425 - A collection of utility functions to speed up your git workflow
 - [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 335 - Clean command history from typos automatically
-- [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 449 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 283)
+- [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 450 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 283)
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) ⭐ 227 - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
 - [Fishtape](https://github.com/jorgebucaran/fishtape) ⭐ 353 - TAP-based test runner for Fish
 - [Pufferfish](https://github.com/nickeb96/puffer-fish) ⭐ 334 - Text Expansions for Fish
-- [Projectdo](https://github.com/paldepind/projectdo) ⭐ 74 - Context-aware single-letter abbreviations to build, run, and test any project
+- [Projectdo](https://github.com/paldepind/projectdo) ⭐ 75 - Context-aware single-letter abbreviations to build, run, and test any project
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,086 - Virtualenv wrapper
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 454 - Make your prompt asynchronous
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) ⭐ 93 - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
-- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) ⭐ 322 - Remembering abbreviations by displaying tips when you can use them
+- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) ⭐ 323 - Remembering abbreviations by displaying tips when you can use them
 - [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) ⭐ 33 - A pure Fish solution to change your shell's default ANSI colors
 
 ## Docker
