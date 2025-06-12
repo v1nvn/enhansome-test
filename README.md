@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
-- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,072
+- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,081
 - [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
 ## Community Resources
@@ -23,26 +23,26 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
 - [Stack Overflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) ⭐ 2,077 - From Shell to Plate: Savor the Zest of Fish 🦞
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) ⭐ 2,079 - From Shell to Plate: Savor the Zest of Fish 🦞
 
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) ⭐ 3,432 - A modern prompt manager for Fish
-- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,322 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,619 ZSH prompt, now in Fish flavor
-- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 790 - Lag-free prompt with async Git status (ooh la la)
+- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,323 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,620 ZSH prompt, now in Fish flavor
+- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 791 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-- [z](https://github.com/jethrokuan/z) ⭐ 1,411 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,662-like directory jumping
-- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,303 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,843. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
-- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,358 - Node.js version manager lovingly made for Fish
+- [z](https://github.com/jethrokuan/z) ⭐ 1,411 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,663-like directory jumping
+- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,303 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 70,868. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
+- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,360 - Node.js version manager lovingly made for Fish
 - [Done](https://github.com/franciscolourenco/done) ⭐ 843 - Automatically receive notifications after a long process finishes
-- [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 442 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,309)
+- [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 442 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,310)
 - [Spark](https://github.com/jorgebucaran/spark.fish) ⭐ 356 - Sparklines for Fish
-- [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,384 - Manage functions, completions, bindings, and snippets from the CLI
+- [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,386 - Manage functions, completions, bindings, and snippets from the CLI
 - [Fundle](https://github.com/danhper/fundle) ⭐ 383 - `config.fish`-based plugin manager
-- [GitNow](https://github.com/joseluisq/gitnow) ⭐ 425 - A collection of utility functions to speed up your git workflow
-- [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 335 - Clean command history from typos automatically
+- [GitNow](https://github.com/joseluisq/gitnow) ⭐ 426 - A collection of utility functions to speed up your git workflow
+- [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 334 - Clean command history from typos automatically
 - [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 451 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 283)
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) ⭐ 227 - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
 - [Fishtape](https://github.com/jorgebucaran/fishtape) ⭐ 353 - TAP-based test runner for Fish
