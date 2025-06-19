@@ -2,7 +2,7 @@
 
 > Fish is the sassy & user-friendly command line shell you never knew you needed for Linux, macOS, and the whole gang. Out with the old-fashioned shells that skimp on features for the sake of every last byte of RAM—finally, a command line shell for the 90s!
 
-Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 4,516, join the crew!
+Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 4,519, join the crew!
 
 ## Contents
 
@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
-- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,125
+- [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 30,138
 - [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
 ## Community Resources
@@ -28,18 +28,18 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) ⭐ 3,442 - A modern prompt manager for Fish
-- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,324 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,627 ZSH prompt, now in Fish flavor
-- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 793 - Lag-free prompt with async Git status (ooh la la)
+- [Pure](https://github.com/pure-fish/pure/) ⭐ 1,325 - [_That_](https://github.com/sindresorhus/pure) ⭐ 13,628 ZSH prompt, now in Fish flavor
+- [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 795 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-- [z](https://github.com/jethrokuan/z) ⭐ 1,415 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,668-like directory jumping
-- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,308 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 71,050. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
-- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,368 - Node.js version manager lovingly made for Fish
+- [z](https://github.com/jethrokuan/z) ⭐ 1,416 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,668-like directory jumping
+- [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,308 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 71,069. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 887)
+- [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,369 - Node.js version manager lovingly made for Fish
 - [Done](https://github.com/franciscolourenco/done) ⭐ 844 - Automatically receive notifications after a long process finishes
 - [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 444 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,310)
 - [Spark](https://github.com/jorgebucaran/spark.fish) ⭐ 356 - Sparklines for Fish
-- [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,399 - Manage functions, completions, bindings, and snippets from the CLI
+- [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,401 - Manage functions, completions, bindings, and snippets from the CLI
 - [Fundle](https://github.com/danhper/fundle) ⭐ 383 - `config.fish`-based plugin manager
 - [GitNow](https://github.com/joseluisq/gitnow) ⭐ 428 - A collection of utility functions to speed up your git workflow
 - [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 335 - Clean command history from typos automatically
