@@ -13,7 +13,7 @@
             "last_commit": "2025-08-19T06:36:40Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3570
+            "stars": 3571
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2025-07-15T14:15:10Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1360
+            "stars": 1361
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2024-12-05T01:08:38Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 819
+            "stars": 820
           }
         }
       ],
@@ -71,7 +71,7 @@
             "last_commit": "2025-08-12T10:12:44Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2390
+            "stars": 2392
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-03-23T05:49:49Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2448
+            "stars": 2449
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2025-05-15T14:53:32Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 858
+            "stars": 857
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8624
+            "stars": 8629
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2024-01-21T02:38:40Z",
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-03-19T01:03:05Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 347
+            "stars": 348
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-07T04:26:46.864Z",
+    "last_updated": "2025-09-08T04:29:39.826Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
