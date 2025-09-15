@@ -71,7 +71,7 @@
             "last_commit": "2025-08-12T10:12:44Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2398
+            "stars": 2397
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8641
+            "stars": 8643
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-03-19T01:03:05Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-08-25T14:24:53Z",
+            "last_commit": "2025-09-14T11:35:53Z",
             "owner": "paldepind",
             "repo": "projectdo",
             "stars": 78
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-14T04:27:04.833Z",
+    "last_updated": "2025-09-15T04:29:40.454Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
