@@ -84,7 +84,7 @@
             "last_commit": "2025-03-23T05:49:49Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2462
+            "stars": 2463
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8660
+            "stars": 8665
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "Gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 338
+            "stars": 340
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-20T04:27:11.842Z",
+    "last_updated": "2025-09-21T04:27:41.983Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
