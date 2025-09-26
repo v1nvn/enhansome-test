@@ -13,7 +13,7 @@
             "last_commit": "2025-09-22T23:00:53Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3607
+            "stars": 3609
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2025-09-23T23:25:37Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1366
+            "stars": 1367
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2025-08-12T10:12:44Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2407
+            "stars": 2408
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-03-23T05:49:49Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2465
+            "stars": 2468
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8674
+            "stars": 8676
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-09-17T04:34:05Z",
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 445
+            "stars": 446
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-03-19T01:03:05Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-09-15T18:25:46Z",
             "owner": "paldepind",
             "repo": "projectdo",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-25T04:28:36.689Z",
+    "last_updated": "2025-09-26T04:29:09.452Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
