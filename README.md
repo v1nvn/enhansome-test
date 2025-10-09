@@ -2,7 +2,7 @@
 
 > Fish is the sassy & user-friendly command line shell you never knew you needed for Linux, macOS, and the whole gang. Out with the old-fashioned shells that skimp on features for the sake of every last byte of RAM—finally, a command line shell for the 90s!
 
-Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 4,666 | 🐛 9 | 📅 2024-08-02, join the crew!
+Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 4,668 | 🐛 10 | 📅 2024-08-02, join the crew!
 
 ## Contents
 
@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 * [Official Site](https://fishshell.com)
-* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 31,143 | 🐛 522 | 🌐 Rust | 📅 2025-10-07
+* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 31,153 | 🐛 523 | 🌐 Rust | 📅 2025-10-08
 * [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
 ## Community Resources
@@ -27,21 +27,21 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Prompts
 
-* [Tide](https://github.com/IlanCosman/tide) ⭐ 3,630 | 🐛 111 | 🌐 Shell | 📅 2025-09-22 - A modern prompt manager for Fish
-* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,361 | 🐛 10 | 🌐 Shell | 📅 2025-09-23 - [*That*](https://github.com/sindresorhus/pure) ⭐ 13,817 | 🐛 37 | 🌐 Shell | 📅 2025-04-25 ZSH prompt, now in Fish flavor
-* [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 828 | 🐛 16 | 🌐 Shell | 📅 2024-12-05 - Lag-free prompt with async Git status (ooh la la)
+* [Tide](https://github.com/IlanCosman/tide) ⭐ 3,633 | 🐛 111 | 🌐 Shell | 📅 2025-09-22 - A modern prompt manager for Fish
+* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,360 | 🐛 10 | 🌐 Shell | 📅 2025-09-23 - [*That*](https://github.com/sindresorhus/pure) ⭐ 13,815 | 🐛 37 | 🌐 Shell | 📅 2025-04-25 ZSH prompt, now in Fish flavor
+* [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 829 | 🐛 16 | 🌐 Shell | 📅 2024-12-05 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-* [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,694 | 🐛 17 | 🌐 Shell | 📅 2024-09-10 - Manage functions, completions, bindings, and snippets from the CLI
-* [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,475 | 🐛 12 | 🌐 Shell | 📅 2025-03-23 - Node.js version manager lovingly made for Fish
-* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,415 | 🐛 2 | 🌐 Shell | 📅 2025-08-12 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 74,230 | 🐛 299 | 🌐 Go | 📅 2025-10-08. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 895 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
-* [z](https://github.com/jethrokuan/z) ⭐ 1,462 | 🐛 16 | 🌐 Shell | 📅 2025-02-13 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,803 | 🐛 104 | 🌐 Shell | 📅 2024-06-19-like directory jumping
+* [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,696 | 🐛 17 | 🌐 Shell | 📅 2024-09-10 - Manage functions, completions, bindings, and snippets from the CLI
+* [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,477 | 🐛 12 | 🌐 Shell | 📅 2025-03-23 - Node.js version manager lovingly made for Fish
+* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,417 | 🐛 2 | 🌐 Shell | 📅 2025-08-12 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 74,250 | 🐛 298 | 🌐 Go | 📅 2025-10-08. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 895 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
+* [z](https://github.com/jethrokuan/z) ⭐ 1,463 | 🐛 16 | 🌐 Shell | 📅 2025-02-13 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,804 | 🐛 104 | 🌐 Shell | 📅 2024-06-19-like directory jumping
 * [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,088 | 🐛 24 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
 * [Done](https://github.com/franciscolourenco/done) ⭐ 862 | 🐛 19 | 🌐 Shell | 📅 2025-05-15 - Automatically receive notifications after a long process finishes
-* [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 488 | 🐛 3 | 🌐 Shell | 📅 2022-07-04 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 289 | 🐛 7 | 🌐 Shell | 📅 2020-11-30)
-* [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 483 | 🐛 18 | 🌐 Shell | 📅 2024-07-17 - Make your prompt asynchronous
-* [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 452 | 🐛 1 | 🌐 Shell | 📅 2024-07-01 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,362 | 🐛 15 | 🌐 Python | 📅 2023-12-16)
+* [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 487 | 🐛 3 | 🌐 Shell | 📅 2022-07-04 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 289 | 🐛 7 | 🌐 Shell | 📅 2020-11-30)
+* [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 482 | 🐛 18 | 🌐 Shell | 📅 2024-07-17 - Make your prompt asynchronous
+* [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 452 | 🐛 1 | 🌐 Shell | 📅 2024-07-01 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,363 | 🐛 15 | 🌐 Python | 📅 2023-12-16)
 * [GitNow](https://github.com/joseluisq/gitnow) ⭐ 448 | 🐛 9 | 🌐 Shell | 📅 2025-09-17 - A collection of utility functions to speed up your git workflow
 * [Fundle](https://github.com/danhper/fundle) ⭐ 384 | 🐛 13 | 🌐 Shell | 📅 2023-01-05 - `config.fish`-based plugin manager
 * [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 368 | 🐛 2 | 🌐 Shell | 📅 2024-01-21 - Clean command history from typos automatically
