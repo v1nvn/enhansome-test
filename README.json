@@ -13,7 +13,7 @@
             "last_commit": "2025-09-22T23:00:53Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3641
+            "stars": 3645
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2025-10-10T22:29:20Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1361
+            "stars": 1362
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2025-02-13T15:17:15Z",
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1465
+            "stars": 1466
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-03-23T05:49:49Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2477
+            "stars": 2479
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-09-17T04:34:05Z",
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-03-19T01:03:05Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 355
+            "stars": 356
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2024-07-17T14:19:49Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 482
+            "stars": 483
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-10-13T04:29:34.600Z",
+    "last_updated": "2025-10-14T04:28:54.675Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
