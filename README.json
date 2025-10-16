@@ -13,7 +13,7 @@
             "last_commit": "2025-09-22T23:00:53Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3650
+            "stars": 3654
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2025-02-13T15:17:15Z",
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1468
+            "stars": 1467
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-03-23T05:49:49Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2480
+            "stars": 2482
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-07-01T03:53:07Z",
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 452
+            "stars": 451
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-10-15T04:28:56.424Z",
+    "last_updated": "2025-10-16T04:28:28.788Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
