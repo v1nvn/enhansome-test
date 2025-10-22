@@ -13,7 +13,7 @@
             "last_commit": "2025-09-22T23:00:53Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3668
+            "stars": 3669
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2024-12-05T01:08:38Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 833
+            "stars": 835
           }
         }
       ],
@@ -71,7 +71,7 @@
             "last_commit": "2025-08-12T10:12:44Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2426
+            "stars": 2427
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-03-23T05:49:49Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2486
+            "stars": 2488
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8722
+            "stars": 8721
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 490
+            "stars": 491
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2024-11-27T19:24:18Z",
             "owner": "adambrenecki",
             "repo": "virtualfish",
-            "stars": 1089
+            "stars": 1090
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "Gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 343
+            "stars": 345
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-10-21T04:29:41.794Z",
+    "last_updated": "2025-10-22T04:29:37.593Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
