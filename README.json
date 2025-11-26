@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-11-24T23:04:53Z",
+            "last_commit": "2025-11-25T07:41:34Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3743
+            "stars": 3744
           }
         },
         {
@@ -23,7 +23,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-11-20T11:44:42Z",
+            "last_commit": "2025-11-25T17:38:07Z",
             "owner": "pure-fish",
             "repo": "pure",
             "stars": 1385
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8808
+            "stars": 8812
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 502
+            "stars": 503
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-11-25T04:32:19.475Z",
+    "last_updated": "2025-11-26T04:33:00.052Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
