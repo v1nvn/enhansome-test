@@ -13,7 +13,7 @@
             "last_commit": "2025-11-25T07:41:34Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3744
+            "stars": 3746
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-11-25T17:38:07Z",
+            "last_commit": "2025-11-27T03:43:28Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1385
+            "stars": 1386
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2025-05-15T14:53:32Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 875
+            "stars": 876
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8812
+            "stars": 8811
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-09-17T04:34:05Z",
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 461
+            "stars": 460
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2024-05-26T11:16:10Z",
             "owner": "jorgebucaran",
             "repo": "fishtape",
-            "stars": 365
+            "stars": 366
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2024-11-27T19:24:18Z",
             "owner": "adambrenecki",
             "repo": "virtualfish",
-            "stars": 1090
+            "stars": 1091
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-11-26T04:33:00.052Z",
+    "last_updated": "2025-11-27T04:31:56.904Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
