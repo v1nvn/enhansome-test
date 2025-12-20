@@ -15,7 +15,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 * [Official Site](https://fishshell.com)
-* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 31,862 | 🐛 518 | 🌐 Rust | 📅 2025-12-18
+* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 31,866 | 🐛 511 | 🌐 Rust | 📅 2025-12-19
 
 ## Community Resources
 
@@ -26,27 +26,27 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Prompts
 
-* [Tide](https://github.com/IlanCosman/tide) ⭐ 3,787 | 🐛 115 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish
-* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,411 | 🐛 8 | 🌐 Shell | 📅 2025-12-09 - [*That*](https://github.com/sindresorhus/pure) ⭐ 13,955 | 🐛 31 | 🌐 Shell | 📅 2025-11-15 ZSH prompt, now in Fish flavor
-* [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 847 | 🐛 19 | 🌐 Shell | 📅 2024-12-05 - Lag-free prompt with async Git status (ooh la la)
+* [Tide](https://github.com/IlanCosman/tide) ⭐ 3,791 | 🐛 115 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish
+* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,411 | 🐛 8 | 🌐 Shell | 📅 2025-12-09 - [*That*](https://github.com/sindresorhus/pure) ⭐ 13,956 | 🐛 31 | 🌐 Shell | 📅 2025-11-15 ZSH prompt, now in Fish flavor
+* [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 846 | 🐛 19 | 🌐 Shell | 📅 2024-12-05 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-* [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,838 | 🐛 20 | 🌐 Shell | 📅 2024-09-10 - Manage functions, completions, bindings, and snippets from the CLI
+* [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,839 | 🐛 20 | 🌐 Shell | 📅 2024-09-10 - Manage functions, completions, bindings, and snippets from the CLI
 * [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,542 | 🐛 13 | 🌐 Shell | 📅 2025-12-05 - Node.js version manager lovingly made for Fish
-* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,475 | 🐛 2 | 🌐 Shell | 📅 2025-11-20 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 76,019 | 🐛 321 | 🌐 Go | 📅 2025-12-18. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 898 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
-* [z](https://github.com/jethrokuan/z) ⭐ 1,482 | 🐛 17 | 🌐 Shell | 📅 2025-02-13 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,876 | 🐛 104 | 🌐 Shell | 📅 2024-06-19-like directory jumping
+* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,475 | 🐛 2 | 🌐 Shell | 📅 2025-11-20 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 76,051 | 🐛 320 | 🌐 Go | 📅 2025-12-19. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 898 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
+* [z](https://github.com/jethrokuan/z) ⭐ 1,482 | 🐛 17 | 🌐 Shell | 📅 2025-02-13 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,878 | 🐛 104 | 🌐 Shell | 📅 2024-06-19-like directory jumping
 * [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,092 | 🐛 24 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
-* [Done](https://github.com/franciscolourenco/done) ⭐ 879 | 🐛 15 | 🌐 Shell | 📅 2025-12-15 - Automatically receive notifications after a long process finishes
+* [Done](https://github.com/franciscolourenco/done) ⭐ 880 | 🐛 15 | 🌐 Shell | 📅 2025-12-15 - Automatically receive notifications after a long process finishes
 * [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 507 | 🐛 4 | 🌐 Shell | 📅 2022-07-04 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 292 | 🐛 7 | 🌐 Shell | 📅 2020-11-30)
-* [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 487 | 🐛 14 | 🌐 Shell | 📅 2025-12-14 - Make your prompt asynchronous
+* [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 488 | 🐛 14 | 🌐 Shell | 📅 2025-12-14 - Make your prompt asynchronous
 * [GitNow](https://github.com/joseluisq/gitnow) ⭐ 464 | 🐛 9 | 🌐 Shell | 📅 2025-09-17 - A collection of utility functions to speed up your git workflow
-* [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 457 | 🐛 1 | 🌐 Shell | 📅 2024-07-01 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,388 | 🐛 15 | 🌐 Python | 📅 2023-12-16)
-* [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 391 | 🐛 2 | 🌐 Shell | 📅 2024-01-21 - Clean command history from typos automatically
-* [Fundle](https://github.com/danhper/fundle) ⭐ 383 | 🐛 12 | 🌐 Shell | 📅 2023-01-05 - `config.fish`-based plugin manager
+* [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 457 | 🐛 1 | 🌐 Shell | 📅 2024-07-01 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,389 | 🐛 15 | 🌐 Python | 📅 2023-12-16)
+* [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 392 | 🐛 2 | 🌐 Shell | 📅 2024-01-21 - Clean command history from typos automatically
+* [Fundle](https://github.com/danhper/fundle) ⭐ 384 | 🐛 12 | 🌐 Shell | 📅 2023-01-05 - `config.fish`-based plugin manager
 * [Fishtape](https://github.com/jorgebucaran/fishtape) ⭐ 366 | 🐛 4 | 🌐 Shell | 📅 2024-05-26 - TAP-based test runner for Fish
 * [Spark](https://github.com/jorgebucaran/spark.fish) ⭐ 365 | 🐛 0 | 🌐 Shell | 📅 2021-01-16 - Sparklines for Fish
-* [Pufferfish](https://github.com/nickeb96/puffer-fish) ⭐ 364 | 🐛 1 | 🌐 Shell | 📅 2025-11-13 - Text Expansions for Fish
+* [Pufferfish](https://github.com/nickeb96/puffer-fish) ⭐ 365 | 🐛 1 | 🌐 Shell | 📅 2025-11-13 - Text Expansions for Fish
 * [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) ⭐ 351 | 🐛 5 | 🌐 Shell | 📅 2024-02-06 - Remembering abbreviations by displaying tips when you can use them
 * [Getopts](https://github.com/jorgebucaran/getopts.fish) ⭐ 232 | 🐛 0 | 🌐 Shell | 📅 2025-04-15 - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
 * [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) ⭐ 94 | 🐛 0 | 🌐 Shell | 📅 2022-04-29 - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
