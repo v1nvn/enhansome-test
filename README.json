@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3792
+            "stars": 3793
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2025-12-09T23:44:29Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1412
+            "stars": 1413
           }
         },
         {
@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-02-13T15:17:15Z",
+            "last_commit": "2025-12-21T10:35:58Z",
             "owner": "jethrokuan",
             "repo": "z",
             "stars": 1482
@@ -71,7 +71,7 @@
             "last_commit": "2025-11-20T23:08:06Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2477
+            "stars": 2478
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2025-12-15T00:06:11Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 880
+            "stars": 881
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8841
+            "stars": 8844
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2023-01-05T16:21:45Z",
             "owner": "danhper",
             "repo": "fundle",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2025-12-14T10:20:04Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "Gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-12-21T04:41:18.646Z",
+    "last_updated": "2025-12-22T04:46:11.147Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
