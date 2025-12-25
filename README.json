@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3796
+            "stars": 3799
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2025-12-09T23:44:29Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1412
+            "stars": 1413
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2024-12-05T01:08:38Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 846
+            "stars": 845
           }
         }
       ],
@@ -84,7 +84,7 @@
             "last_commit": "2025-12-05T14:05:51Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2544
+            "stars": 2546
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2021-01-16T05:39:49Z",
             "owner": "jorgebucaran",
             "repo": "spark.fish",
-            "stars": 365
+            "stars": 366
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2024-01-21T02:38:40Z",
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-04-15T13:54:48Z",
             "owner": "jorgebucaran",
             "repo": "getopts.fish",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2025-11-13T19:29:19Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-09-15T18:25:46Z",
             "owner": "paldepind",
             "repo": "projectdo",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "Gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-12-24T04:40:29.626Z",
+    "last_updated": "2025-12-25T04:42:14.219Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
