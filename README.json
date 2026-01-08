@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3825
+            "stars": 3826
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-06T14:45:10Z",
+            "last_commit": "2026-01-07T10:06:58Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1417
+            "stars": 1418
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2025-11-20T23:08:06Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2493
+            "stars": 2494
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2025-12-15T00:06:11Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-07-01T03:53:07Z",
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-09-10T16:04:35Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8875
+            "stars": 8876
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 511
+            "stars": 513
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2025-11-13T19:29:19Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 370
+            "stars": 371
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-01-05T12:09:06Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 493
+            "stars": 494
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-07T04:47:08.670Z",
+    "last_updated": "2026-01-08T04:44:54.618Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
