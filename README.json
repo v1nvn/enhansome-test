@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3847
+            "stars": 3850
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-07T10:06:58Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1421
+            "stars": 1423
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2025-12-31T12:41:34Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 860
+            "stars": 864
           }
         }
       ],
@@ -71,7 +71,7 @@
             "last_commit": "2025-11-20T23:08:06Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2510
+            "stars": 2513
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2026-01-17T04:44:10Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8909
+            "stars": 8910
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2024-01-21T02:38:40Z",
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 517
+            "stars": 518
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-01-05T12:09:06Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-20T04:52:00.587Z",
+    "last_updated": "2026-01-21T04:51:24.111Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
