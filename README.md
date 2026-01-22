@@ -15,27 +15,27 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Official Resources
 
 * [Official Site](https://fishshell.com)
-* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 32,134 | 🐛 528 | 🌐 Rust | 📅 2026-01-20
+* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 32,139 | 🐛 529 | 🌐 Rust | 📅 2026-01-21
 
 ## Community Resources
 
 * [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 * [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
 * [Stack Overflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
-* [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) ⭐ 2,119 | 🐛 2 | 📅 2023-09-04 - From Shell to Plate: Savor the Zest of Fish 🦞
+* [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) ⭐ 2,121 | 🐛 2 | 📅 2023-09-04 - From Shell to Plate: Savor the Zest of Fish 🦞
 
 ## Prompts
 
-* [Tide](https://github.com/IlanCosman/tide) ⭐ 3,850 | 🐛 129 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish
-* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,423 | 🐛 12 | 🌐 Shell | 📅 2026-01-07 - [*That*](https://github.com/sindresorhus/pure) ⭐ 14,015 | 🐛 31 | 🌐 Shell | 📅 2025-11-15 ZSH prompt, now in Fish flavor
+* [Tide](https://github.com/IlanCosman/tide) ⭐ 3,852 | 🐛 129 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish
+* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,426 | 🐛 12 | 🌐 Shell | 📅 2026-01-07 - [*That*](https://github.com/sindresorhus/pure) ⭐ 14,018 | 🐛 31 | 🌐 Shell | 📅 2025-11-15 ZSH prompt, now in Fish flavor
 * [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 864 | 🐛 17 | 🌐 Shell | 📅 2025-12-31 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
-* [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,910 | 🐛 20 | 🌐 Shell | 📅 2026-01-17 - Manage functions, completions, bindings, and snippets from the CLI
-* [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,569 | 🐛 12 | 🌐 Shell | 📅 2025-12-05 - Node.js version manager lovingly made for Fish
-* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,513 | 🐛 2 | 🌐 Shell | 📅 2025-11-20 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 77,151 | 🐛 325 | 🌐 Go | 📅 2026-01-18. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 903 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
-* [z](https://github.com/jethrokuan/z) ⭐ 1,489 | 🐛 17 | 🌐 Shell | 📅 2025-12-21 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,906 | 🐛 105 | 🌐 Shell | 📅 2024-06-19-like directory jumping
+* [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 8,912 | 🐛 20 | 🌐 Shell | 📅 2026-01-17 - Manage functions, completions, bindings, and snippets from the CLI
+* [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,570 | 🐛 12 | 🌐 Shell | 📅 2025-12-05 - Node.js version manager lovingly made for Fish
+* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,514 | 🐛 2 | 🌐 Shell | 📅 2025-11-20 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 77,171 | 🐛 326 | 🌐 Go | 📅 2026-01-18. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 903 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
+* [z](https://github.com/jethrokuan/z) ⭐ 1,489 | 🐛 17 | 🌐 Shell | 📅 2025-12-21 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 16,908 | 🐛 105 | 🌐 Shell | 📅 2024-06-19-like directory jumping
 * [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,091 | 🐛 24 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
 * [Done](https://github.com/franciscolourenco/done) ⭐ 897 | 🐛 17 | 🌐 Shell | 📅 2025-12-15 - Automatically receive notifications after a long process finishes
 * [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 518 | 🐛 5 | 🌐 Shell | 📅 2022-07-04 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 292 | 🐛 7 | 🌐 Shell | 📅 2020-11-30)
