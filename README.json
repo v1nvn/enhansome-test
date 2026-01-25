@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3857
+            "stars": 3859
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-07T10:06:58Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1428
+            "stars": 1431
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2025-12-31T12:41:34Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 864
+            "stars": 865
           }
         }
       ],
@@ -71,7 +71,7 @@
             "last_commit": "2025-11-20T23:08:06Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2516
+            "stars": 2518
           }
         },
         {
@@ -133,10 +133,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-17T04:44:10Z",
+            "last_commit": "2026-01-25T03:48:14Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8916
+            "stars": 8918
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2024-05-26T11:16:10Z",
             "owner": "jorgebucaran",
             "repo": "fishtape",
-            "stars": 367
+            "stars": 368
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2024-11-27T19:24:18Z",
             "owner": "adambrenecki",
             "repo": "virtualfish",
-            "stars": 1091
+            "stars": 1090
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-01-05T12:09:06Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 499
+            "stars": 500
           }
         },
         {
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-24T04:39:59.037Z",
+    "last_updated": "2026-01-25T04:55:45.185Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
