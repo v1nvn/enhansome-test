@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3859
+            "stars": 3862
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-07T10:06:58Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1431
+            "stars": 1432
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2025-12-21T10:35:58Z",
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1489
+            "stars": 1491
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-12-05T14:05:51Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2574
+            "stars": 2575
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-07-01T03:53:07Z",
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 463
+            "stars": 464
           }
         },
         {
@@ -133,10 +133,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-25T03:48:14Z",
+            "last_commit": "2026-01-25T05:58:55Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8918
+            "stars": 8921
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2025-11-13T19:29:19Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 374
+            "stars": 375
           }
         },
         {
@@ -241,6 +241,19 @@
             "owner": "paldepind",
             "repo": "projectdo",
             "stars": 86
+          }
+        },
+        {
+          "children": [],
+          "description": "Run a default command when no command was given",
+          "title": "Magic Enter",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-07T20:16:38Z",
+            "owner": "mattmc3",
+            "repo": "magic-enter.fish",
+            "stars": 28
           }
         },
         {
@@ -266,7 +279,7 @@
             "last_commit": "2026-01-05T12:09:06Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 500
+            "stars": 501
           }
         },
         {
@@ -313,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-25T04:55:45.185Z",
+    "last_updated": "2026-01-26T04:59:07.816Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
