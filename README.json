@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3862
+            "stars": 3866
           }
         },
         {
@@ -23,7 +23,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-07T10:06:58Z",
+            "last_commit": "2026-01-26T23:09:29Z",
             "owner": "pure-fish",
             "repo": "pure",
             "stars": 1432
@@ -71,7 +71,7 @@
             "last_commit": "2025-11-20T23:08:06Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2518
+            "stars": 2520
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-12-05T14:05:51Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2575
+            "stars": 2582
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2026-01-25T05:58:55Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8921
+            "stars": 8925
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-09-17T04:34:05Z",
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 464
+            "stars": 465
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-09-15T18:25:46Z",
             "owner": "paldepind",
             "repo": "projectdo",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "Gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-26T04:59:07.816Z",
+    "last_updated": "2026-01-27T04:52:19.650Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
