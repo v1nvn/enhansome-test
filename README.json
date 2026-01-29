@@ -13,7 +13,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 3866
+            "stars": 3868
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-26T23:09:29Z",
+            "last_commit": "2026-01-28T10:05:26Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1432
+            "stars": 1435
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2025-12-31T12:41:34Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 867
+            "stars": 871
           }
         }
       ],
@@ -97,7 +97,7 @@
             "last_commit": "2025-12-15T00:06:11Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 899
+            "stars": 900
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2026-01-25T05:58:55Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 8927
+            "stars": 8931
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "Gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-28T04:50:15.222Z",
+    "last_updated": "2026-01-29T05:09:05.497Z",
     "source_repository": "v1nvn/enhansome-test",
     "source_repository_description": "",
     "title": "awsm.fish"
